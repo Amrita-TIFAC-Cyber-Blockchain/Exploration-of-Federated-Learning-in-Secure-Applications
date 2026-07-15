@@ -1,6 +1,6 @@
 # Exploration of Federated Learning in Secure Applications
 ![](https://img.shields.io/badge/-Secure_Fellowship-gold) <br/>
-![](https://img.shields.io/badge/Usecase-STOP-darkred) ![](https://img.shields.io/badge/Usecase-UAV-purple) ![](https://img.shields.io/badge/Usecase-Healthcare-blue) <br/>
+![](https://img.shields.io/badge/Usecase-Smart_Home-darkred) ![](https://img.shields.io/badge/Usecase-Smart_Wearable-blue) ![](https://img.shields.io/badge/Usecase-Financial_Fraud_Detection-purple) <br/>
 
 ## Background
 
