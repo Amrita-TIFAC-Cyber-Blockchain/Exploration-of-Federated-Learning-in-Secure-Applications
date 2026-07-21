@@ -35,6 +35,10 @@ This repository contains the Learning and Resources for Federated Learning which
    - 9.1 [Smart Home]()
    - 9.2 [Smart Wearables]()
    - 9.3 [Financial Fraud Detection]()
+10. Misc
+   - 10.1 [Regulatory Compliance]()
+      - 10.1.1 [HIPAA]()
+      - 10.1.2 [GDPR]()
      
 ## Team Members
 - [Ms. Srisha Satish Kanna]()
